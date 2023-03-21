@@ -1,9 +1,5 @@
-<center>
+<h1 align="center">Daniele Passabì</h1>
 
-# Daniele Passabì
+<h3 align="center">Data Scientist 📈 High Performance Analytics</h3>
 
-### Data Scientist @ High Performance Analytics
-
-![Programmer](images/programmer_gif.gif)
-
-</center>
+<p align="center"><img src="images/programmer_gif.gif" width=75px/></p>
